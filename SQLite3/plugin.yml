@@ -1,0 +1,8 @@
+name: SQLite3
+main: sqlite3\Main
+version: 1.0
+api: 3.0.0
+author: haya1007
+commands:
+  player:
+    description: "TEst"
